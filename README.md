@@ -1,6 +1,12 @@
 # codex-pets-七海nana7mi
 
-小七海（七海 Nana7mi）风格的 Codex 桌宠，提供普通服和鲨鱼服两版。仓库只包含安装所需的成品文件。
+小七海（七海 Nana7mi）风格的 Codex 桌宠，提供普通服和鲨鱼服两版。仓库仅包含桌宠成品、安装说明与两张预览动图。
+
+| 普通服 | 鲨鱼服 |
+| :---: | :---: |
+| ![小七海普通服读书动作预览](previews/normal.gif) | ![小七海鲨鱼服读书动作预览](previews/shark.gif) |
+
+读书动作循环预览；实际播放节奏以 Codex 客户端为准。
 
 ```text
 xiaoqihai-normal/
