@@ -4,9 +4,9 @@
 
 | 普通服 | 鲨鱼服 |
 | :---: | :---: |
-| ![小七海普通服读书动作预览](previews/normal.gif) | ![小七海鲨鱼服读书动作预览](previews/shark.gif) |
+| ![小七海普通服读书动作预览](previews/normal.png) | ![小七海鲨鱼服读书动作预览](previews/shark.png) |
 
-读书动作循环预览；实际播放节奏以 Codex 客户端为准。
+读书动作循环预览（APNG，保留完整透明度，原尺寸 192 × 208）；实际播放节奏以 Codex 客户端为准。
 
 ```text
 xiaoqihai-normal/
